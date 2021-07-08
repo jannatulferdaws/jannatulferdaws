@@ -1,6 +1,5 @@
 Hi 👋, I'm <b>Jannatul Ferdaws Amrin</b>. <br>
-<br><b> 👨‍💻 Who am I? </b>
-
+<br>
 I am a third year Student at Jahangirnagar University currently undertaking my Bachelors in Computer Science and Engineering. I love to explore new stuff. Currently associated with JU Computer Club, LetsGrowMore , The Uplift Project, DevIncept. 
 
 - 🌱 I’m currently learning <b>Machine Learning,Digital Marketing</b>.<br>
