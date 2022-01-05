@@ -1,6 +1,6 @@
 Hi 👋, I'm <b>Jannatul Ferdaws Amrin</b>. <br>
 <br>
-I am an undergrad Student at Jahangirnagar University currently undertaking my Bachelors in Computer Science and Engineering. I love to explore new stuff. Currently associated with JU Computer Club, LetsGrowMore , The Uplift Project, DevIncept. 
+I am an undergrad Student at Jahangirnagar University currently undertaking my Bachelors in Computer Science and Engineering. I love to explore new stuff. Currently associated with JU Computer Club, DevIncept. 
 
 - 🌱 I’m currently learning <b>Machine Learning</b>.<br>
 - ✨ I'm interested in <b>Machine Learning, Natural Language Processing, Web Development.</b><br> 
